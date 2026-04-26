@@ -13,13 +13,13 @@
     "generate-types": "wrangler types"
   },
   "dependencies": {
-    "@astrojs/cloudflare": "^13.1.2",
-    "@astrojs/markdoc": "^1.0.2",
-    "astro": "^6.0.7",
-    "wrangler": "^4.76.0"
+    "@astrojs/cloudflare": "^13.2.1",
+    "@astrojs/markdoc": "^1.0.4",
+    "astro": "^6.1.9",
+    "wrangler": "^4.85.0"
   },
   "devDependencies": {
-    "@unocss/astro": "^66.6.7",
-    "sass-embedded": "^1.98.0"
+    "@unocss/astro": "^66.6.8",
+    "sass-embedded": "^1.99.0"
   }
 }
